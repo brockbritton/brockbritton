@@ -1,6 +1,6 @@
 ![](BB%20Code%20Github.png)
 
-:-Welcome to my Github!-:
+<h1 align="center"> Welcome to my Github! </h1>
 
 Hello! I'm Brock Britton. I'm a software engineer living currently in Seattle, WA. Technology is my passion. I have loved technology from a very young age. I was able to start my software development journey in college. I then spent a few years working on a couple of personal projects. One of my favorite projects was a game about learning the pathways to a healthier life and the education of mental health. I really value honesty, integrity, and transparency.
 
