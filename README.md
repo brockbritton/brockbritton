@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](BB%20Code%20Logo.png)
+![](BB%20Code%20Github.png)
 
 <!--
 **brockbritton/brockbritton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
