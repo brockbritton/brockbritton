@@ -1,6 +1,10 @@
-### Hi there 👋
-
 ![](BB%20Code%20Github.png)
+
+:-Welcome to my Github!-:
+
+Hello! I'm Brock Britton. I'm a software engineer living currently in Seattle, WA. Technology is my passion. I have loved technology from a very young age. I was able to start my software development journey in college. I then spent a few years working on a couple of personal projects. One of my favorite projects was a game about learning the pathways to a healthier life and the education of mental health. I really value honesty, integrity, and transparency.
+
+I love the software development industry as it gives me practical opportunities to make a difference by solving real-world problems. I am intrinsically motivated to learn, work with others, and further my knowledge and skills. I strive to utilize technology by working collaboratively and lead all of us toward a more accessible and accepting future.
 
 <!--
 **brockbritton/brockbritton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
